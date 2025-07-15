@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "email": "acc1@ubs.com",
+      "password": "pass123"
+    },
+    {
+      "email": "acc2@ubs.com",
+      "password": "pass123"
+    }
+  ],
+  "accounts": [
+    {
+      "email": "acc1@ubs.com",
+      "balance": 1000,
+      "accountNumber": "TD000001"
+    },
+    {
+      "email": "acc2@ubs.com",
+      "balance": 1000,
+      "accountNumber": "TD000002"
+    }
+  ],
+  "transactions": []
+}
