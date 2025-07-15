@@ -1,4 +1,4 @@
-# <img src="frontend/public/ubs-logo.png" alt="UBS Logo" width="200" />
+# <img src="frontend/public/ubs-logo.png" alt="UBS Logo" width="600" />
 
 # UBS Bank Demo App
 
