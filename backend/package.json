@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
-    "kill": "kill -9 $(lsof -t -i:3000)"
+    "kill": "lsof -i :3000 -t | xargs kill -9; lsof -i :4000 -t | xargs kill -9"
   },
   "keywords": [],
   "author": "",
